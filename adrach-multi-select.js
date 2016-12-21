@@ -553,7 +553,7 @@ angular.module( 'isteven-multi-select', ['ng'] ).directive( 'istevenMultiSelect'
                         $scope.varButtonLabel += '(' + $scope.outputModel.length + ')';                        
                     }
                 }
-                $scope.varButtonLabel = $sce.trustAsHtml( $scope.varButtonLabel + '<span class="caret"></span>' );                
+                $scope.varButtonLabel = $sce.trustAsHtml( $scope.varButtonLabel + '</div><span class="buttonLabel bs-caret pull-right"><span class="caret"></span></span>' );
             }
 
             // Check if a checkbox is disabled or enabled. It will check the granular control (disableProperty) and global control (isDisabled)
