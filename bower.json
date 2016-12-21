@@ -2,8 +2,8 @@
     "name"      : "adrach-angular-multiselect",
     "version"   : "v4.0.0",
     "main"      : [
-        "isteven-multi-select.js",
-        "isteven-multi-select.css"
+        "adrach-multi-select.js",
+        "adrach-multi-select.css"
     ],
     "ignore"    : [
         ".git",
