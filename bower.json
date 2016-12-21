@@ -1,6 +1,6 @@
 {
     "name"      : "adrach-angular-multiselect",
-    "version"   : "v4.0.0",
+    "version"   : "v4.0.1",
     "main"      : [
         "adrach-multi-select.js",
         "adrach-multi-select.css"
