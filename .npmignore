@@ -1,5 +1,6 @@
 .git
 .gitignore
+.idea
 bower.json
 CHANGELOG.md
 package.json
